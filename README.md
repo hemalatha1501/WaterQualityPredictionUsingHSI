@@ -110,10 +110,6 @@ The actual system uses hyperspectral data and deep learning models like UNet and
 
 ---
 
-## 👩‍💻 Author
-Your Name  
-
----
 
 ## 📄 License
 This project is for academic and research purposes.
